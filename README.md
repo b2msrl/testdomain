@@ -1,6 +1,6 @@
 ## WORK IN PROGRESS
-# @@@package_name
-@@@package_description
+# testdomain
+descr
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -15,7 +15,7 @@
 Table of Contents
 =================
 
-  * [@@@package_name](#@@@package_name)
+  * [testdomain](#testdomain)
   * [Table of Contents](#table-of-contents)
   * [Prerequisites](#prerequisites)
   * [Install](#install)
@@ -39,7 +39,7 @@ Table of Contents
 This package can be installed through Composer.
 
 ``` bash
-composer require @@@vendor/@@@package_name
+composer require padosoft/testdomain
 ```
 
 # Usage
@@ -74,18 +74,18 @@ Padosoft is a software house based in Florence, Italy. Specialized in E-commerce
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 
-[ico-version]: https://img.shields.io/packagist/v/@@@vendor/@@@package_name.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/padosoft/testdomain.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/@@@vendor/@@@package_name/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/@@@vendor/@@@package_name.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/@@@vendor/@@@package_name.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/@@@vendor/@@@package_name.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/padosoft/testdomain/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/padosoft/testdomain.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/padosoft/testdomain.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/padosoft/testdomain.svg?style=flat-square
 [ico-sensiolab]: https://insight.sensiolabs.com/projects/@@@sensiolab/small.png
 
-[link-packagist]: https://packagist.org/packages/@@@vendor/@@@package_name
-[link-travis]: https://travis-ci.org/@@@vendor/@@@package_name
-[link-scrutinizer]: https://scrutinizer-ci.com/g/@@@vendor/@@@package_name/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/@@@vendor/@@@package_name
-[link-downloads]: https://packagist.org/packages/@@@vendor/@@@package_name
+[link-packagist]: https://packagist.org/packages/padosoft/testdomain
+[link-travis]: https://travis-ci.org/padosoft/testdomain
+[link-scrutinizer]: https://scrutinizer-ci.com/g/padosoft/testdomain/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/padosoft/testdomain
+[link-downloads]: https://packagist.org/packages/padosoft/testdomain
 // TODO: @@@sensiolabs
 [link-sensiolab]: https://insight.sensiolabs.com/projects/@@@sensiolabs
